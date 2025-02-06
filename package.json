@@ -1,0 +1,23 @@
+{
+  "name": "conlang-grammar-manager",
+  "version": "1.0.0",
+  "description": "人工言語の文法を扱えるようにするやつです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc&http-server ./public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ski-dot-com/ConlangGrammarManager.git"
+  },
+  "keywords": [
+    "conlang",
+    "grammar"
+  ],
+  "author": "ski.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ski-dot-com/ConlangGrammarManager/issues"
+  },
+  "homepage": "https://github.com/ski-dot-com/ConlangGrammarManager#readme"
+}
